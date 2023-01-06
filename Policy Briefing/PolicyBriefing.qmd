@@ -1,0 +1,15 @@
+## The location and the change of Airbnb activity
+
+Growth in the number of Airbnb listings in London has slowed significantly in the last quarter. On 10 September 2022, the number of Airbnb listings in London was 68,345, an increase of 4.74% compared to 7 June 2022 and an increase of 5.04% compared to 9 March 2022. However, the number of listings with at least 30 days of bookings in the fourth quarter was lower than in the third quarter, but still an increase of 5.67% over the second quarter, which means that the number of listings with bookings of at least 30 days has shown a certain decline in the fourth quarter, after rising since the second quarter, in the context of an increasing number of listings. The whole London area is divided into five divisions, which are Inner East, Inner West, Outer East and North East, Outer South, Outer West and North West. We can see that over two-thirds of the listings are located in the Inner East and Inner West. However, compared to the previous two quarters, the growth rate of the Inner West listings was significantly higher than that of the Inner East listings, with the former even tending to be 1.5 times as high as the latter. In contrast, the listings with at least 30 days of bookings in their respective areas show a downward trend for the previous quarter, with the Inner West falling at a very higher rate than the Inner East. With less than a third of listings in London in the remaining three regions, the number of listings with bookings of at least 30 days increased by more than 10 per cent in quarter four compared to quarter two but was still down marginally compared to quarter three.
+
+Table 1: Airbnb listings in the London region
+
+
+|                             | Listings availabile in 10/09/2022 | Growth rate compared to 07/06/2022  |Growth rate compared to 09/03/2022|Listings reserved at least 30 days in the last quarter | Growth rate compared to the previous quarter | Growth rate compared to the second quarter|  
+|           :----             | :---- | :----     | :---- | :---- | :----  | :----  |
+|  London                     | 68345 | 4.74%     | 5.04% | 54815 | -1.52% | 5.67%  |
+|  Inner_East                 | 27663 | 3.63%     | 3.79% | 23947 | -0.01% | 4.13%  |
+|  Inner_West                 | 23865 | 5.47%     | 6.54% | 18764 | -3.93% | 4.00%  |
+|  Outer_East_and_North_East  | 5065  | 4.33%     | 6.10% | 3481  | -0.68% | 14.47% |
+|  Outer_South                | 3539  | 3.81%     | 4.09% | 2569  | -1.04% | 11.12% |
+|  Outer_West_and_North_West  | 8213  | 7.08%     | 4.77% | 6054  | -0.44% | 10.47% |

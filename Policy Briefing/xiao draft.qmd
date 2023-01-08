@@ -1,0 +1,54 @@
+---
+bibliography: xiao_bio.bib
+csl: harvard-cite-them-right.csl
+title: xiao draft
+format: 
+  pdf:
+    include-in-header:
+      text: |
+        \addtokomafont{disposition}{\rmfamily}
+    #documentclass: report
+    # If using Quarto in Docker, available fonts are: `fc-list : family | sort | uniq`
+    # If using Quarto on local machine then you can usually pick them from the list of installed fonts
+    #mainfont: "Spectral" # https://fonts.google.com/specimen/Spectral
+    #sansfont: "Roboto"   # https://fonts.google.com/specimen/Roboto?category=Sans+Serif
+    #monofont: "Inconsolata" # https://fonts.google.com/specimen/Inconsolata
+    papersize: a4
+    geometry:
+      - top=25mm
+      - left=40mm
+      - right=30mm
+      - bottom=25mm
+      - heightrounded
+    toc: false
+    number-sections: true
+    colorlinks: true
+    highlight-style: github
+---
+
+## What are the prices of Airbnb listings distributed and are they affected by attractions’ locations?
+
+![](Price-of-Airbnb-Listings-per-Night-in-London.png)
+
+The factors that affect prices of Airbnb have been recently noticed and discussed [@Perez-Sanchez]. This section examines its price distribution and the impact of attractions on price. Above is a map of London dividing by boroughs, combined with the price of Airbnb listings  (in GBP) and the locations of attractions. The locations of attractions are marked in red; prices are divided into five classes, with different colors corresponding to different prices, which can be clearly seen in the upper right corner of the map. Most of the high-priced listings are actually priced between 202 and 400, marked with a very conspicuous yellow dot, and can be found in large numbers around the city center. While other low-priced listings are spread all over the place, with prices decreasing as the color deepens. A closer look at the city center will reveal that the higher priced listings are spread in a radial pattern around the attractions, with the innermost layer in yellow and the outer layer slightly lower in green. However, in the area away from the city center, there are relatively few listings with high prices, except for a few high-priced listings in yeallow located along the sporadic attractions. Therefore, Airbnb prices are generally higher in places close to attractions and conversely lower in places far from attractions. This phenomenon is more likely to attract tourists with limited budgets to book listings away from attractions and travel by public transport, contributing to the sustainable development of London.
+
+
+## Exclusive summary
+
+Away from attractions prices of Airbnb are lower, attracting tourists with limited budgets to book and travel by bus in an environmentally friendly way.
+
+
+
+## References
+
+
+
+
+
+
+
+
+
+
+
+

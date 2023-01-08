@@ -1,0 +1,56 @@
+---
+bibliography: zhuoran_bio.bib
+csl: harvard-cite-them-right.csl
+title: zhuoran draft
+format: 
+  pdf:
+    include-in-header:
+      text: |
+        \addtokomafont{disposition}{\rmfamily}
+    #documentclass: report
+    # If using Quarto in Docker, available fonts are: `fc-list : family | sort | uniq`
+    # If using Quarto on local machine then you can usually pick them from the list of installed fonts
+    #mainfont: "Spectral" # https://fonts.google.com/specimen/Spectral
+    #sansfont: "Roboto"   # https://fonts.google.com/specimen/Roboto?category=Sans+Serif
+    #monofont: "Inconsolata" # https://fonts.google.com/specimen/Inconsolata
+    papersize: a4
+    geometry:
+      - top=25mm
+      - left=40mm
+      - right=30mm
+      - bottom=25mm
+      - heightrounded
+    toc: false
+    number-sections: true
+    colorlinks: true
+    highlight-style: github
+---
+## Introduction
+Airbnb has made a significant difference on the tourism industry worldwide. As @Guttentag pointed out, Airbnb has developed a new model for tourism accommodation, unlike traditional accommodation where tourists would book a room at a formal business, such as a hotel. Instead, it creates an online platform that allows individuals to rent out their homes or spare rooms to travelers. This peer-to-peer accommodation model has enabled a large scale of rentals from one person to another. Airbnb properties also offer a more local and authentic experience for tourists, which can be attractive for those who want to get a feel for the city beyond just visiting its major landmarks. This policy briefing is to explain how Airbnb has affected London's tourism by analyzing the prices ,reviews, and the availability of listings in 2022 in relation to the location of hotels and attractions.
+
+## Is the location of Airbnb listings and their availability in London affected by attractions and how are they different from hotels in terms of location?
+![](availability, hotels, and attractions.png)
+
+If Airbnb listings do have impact on tourism, the availability may change in relation to the distance to the attractions and to whether there are hotels around them. It should also be checked if the Airbnb listings can accommodate tourists in the less tourist-oriented areas. If so, the local economy could be improved because of the existence of Airbnb. The data of listings in London from 2022/06/10 to 2022/09/10 and London boroughs are from @InsideAirbnb. Location of attractions and hotels are from @Open. As shown above, the availability of listings and location of attractions and hotels are plotted in the same map. The black dots are hotels, which scatters around central London mostly. The red dots are attractions. The listings are plotted by using the colors in the legend according to their availability in the past 365 days, where lighter color means fewer reservations. As can be seen from the map, the availability is mostly the same around the city, except for central London, where reservations are lower than other parts of the city, possibly because hotels are mostly clustered there. Moreover, listings around the attractions seem to have slightly lower availability, especially in the parts where there are much less hotels. Most importantly, listings cover almost the entire city, which can allow tourists to choose based on their preference and budget, and to experience a more local lifestyle when travelling. The large number of listings can also accommodate much more tourists than hotels. Therefore, Airbnb brings more options, lower prices, and wider range of accommodations for the tourists than hotels, thus would attract more people to travel in London.
+
+## Exclusive summary
+Airbnb can encourage tourists to travel not only just around major attractions, but also the rest of London with more options and lower prices than hotels，thus boost tourism economy. 
+ 
+
+
+
+
+
+## References
+
+
+
+
+
+
+
+
+
+
+
+

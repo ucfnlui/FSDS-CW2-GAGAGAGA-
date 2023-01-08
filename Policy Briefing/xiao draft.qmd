@@ -37,6 +37,9 @@ The factors that affect prices of Airbnb have been recently noticed and discusse
 
 Away from attractions prices of Airbnb are lower, attracting tourists with limited budgets to book and travel by bus in an environmentally friendly way.
 
+## Conclusion
+
+This policy briefing studies the impact of Airbnb on the tourism industry, focusing on the analysis of locations, prices, reviews and changes in availability. It can be seen that Airbnb seems to be more economically efficient as it commonly has lower prices than hotels. Ratings provide guidance for tourists; the tourism industry would be boosted by a significant increase in peak seasons. The locations of Airbnb are widely distributed, among them listings far from the city center are more likely to be chosen due to their lower prices, which would allow them to take transportation and this would contribute to urban sustainability. Some future work could be done later in the study. Tourists’ preferences could be analyzed to study which types of properties and tenants they prefer, so as to look forward a good future in the tourism economy in London.
 
 
 ## References
